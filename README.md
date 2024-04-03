@@ -1,10 +1,10 @@
-Introduction
+Introduction:
 Welcome to the Wine Dataset repository! This README provides an overview of the Wine dataset, its contents, and potential applications.
 
-Description
+Description:
 The Wine dataset is a classic benchmark dataset in machine learning and statistics. It contains the results of a chemical analysis of wines grown in the same region in Italy but derived from three different cultivars. The analysis determined the quantities of 13 constituents found in each of the three types of wines.
 
-Contents
+Contents:
 The dataset comprises the following information:
 
 Features: There are 13 attributes representing different chemical properties found in the wines:
